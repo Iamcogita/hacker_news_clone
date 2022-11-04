@@ -1,7 +1,6 @@
 {
-  "name": "new-js-stuff",
+  "name": "hackernews_clone",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
@@ -12,5 +11,6 @@
   "dependencies": {
     "parcel": "^2.7.0",
     "prettier": "^2.7.1"
-  }
+  },
+  "description": ""
 }
